@@ -15,8 +15,19 @@ body{
  background-color: silver;
 }
 
-.wraper {
+.wrapper {
  width: 420px;
  background: purple;
- color: aqua;
+ color: white;
 }
+
+.wrapper h1 {
+  font-size: 36px;
+  text-align: center;
+ }
+
+ .wrapper .input-box {
+  font-size: 12px;
+  text-align: center;
+
+ } 
